@@ -1,5 +1,5 @@
 # 2020_pills\ Anastasiia Koronenko
-CSharp game (finaly_project С#)
+CSharp game (finally_project С#)
 -------------------------------
 In this game, you control the movement of pills thrown by a robot-hand to kill all viruses. 
 You need to choose the appropriate color side of the pill and put it next to the virus of the same color.
