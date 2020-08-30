@@ -6,6 +6,6 @@ You need to choose the appropriate color side of the pill and put it next to the
 ---------------------------------------------------------------------------------------------------------
 Press <START> to begin play.
 To see options press <CONTROL> to change (Level | Speed | Music)
-To Guid pill: [Left <-], [-> Right], [Down] and [Faster]
+To Guid pill: [Left <-], [-> Right], [Down] and [Fall]
 Press <SPACE> to rotate pill.
 Good Luck!
